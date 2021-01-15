@@ -5,6 +5,8 @@
 // let fifth = fourth;
 // console.log(fifth);
 
-let capital = "Bishkek";
-let country = "KG";
-console.log(`${capital} is the capital of ${country}`);
+// let capital = "Bishkek";
+// let country = "KG";
+// console.log(`${capital} is the capital of ${country}`);
+
+let value = "Distance";
