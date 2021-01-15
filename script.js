@@ -67,5 +67,6 @@ console.log(`Way = ${way}`);
 
 // second
 let a = +prompt("Cube edge width A = ");
+let volume = Math.pow(a, 3);
 // second
 // Homework
