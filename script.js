@@ -39,5 +39,8 @@
 // let movie = "Terminator";
 // console.log(`My favourite movie is "` + movie + `"!`);
 
-let movie = "Terminator";
-console.log(`My favourite movie is "${movie}"!`)
+// let movie = "Terminator";
+// console.log(`My favourite movie is "${movie}"!`)
+
+let firstName = prompt('What is your name?');
+console.log(`Your name is ${firstName}`)
