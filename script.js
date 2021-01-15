@@ -34,13 +34,21 @@
 // console.log('I\'m the fan of "' + artist + '"!');
 
 // let artist = "Beatles";
-// console.log(`I'm the fan of " ${artist} "!`)
+// console.log(`I'm the fan of " ${artist} "!`);
 
 // let movie = "Terminator";
 // console.log(`My favourite movie is "` + movie + `"!`);
 
 // let movie = "Terminator";
-// console.log(`My favourite movie is "${movie}"!`)
+// console.log(`My favourite movie is "${movie}"!`);
 
-let firstName = prompt('What is your name?');
-console.log(`Your name is ${firstName}`)
+// let firstName = prompt('What is your name?');
+// console.log(`Your name is ${firstName}`);
+
+// если хочешь спросить число нужно поставить перед prompt "+" получаем +prompt
+// let a = +prompt("What is A?");
+// let b = +prompt("What is B?");
+// let sum = a + b;
+// console.log(`The sum of two numbers is equal to ${sum}`);
+
+let c = +prompt("What is C?");
