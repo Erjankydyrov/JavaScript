@@ -51,7 +51,11 @@
 // let sum = a + b;
 // console.log(`The sum of two numbers is equal to ${sum}`);
 
-let c = +prompt("What is C?");
-let d = +prompt("What is B?");
-let composition = c * d;
-console.log(`C multiplied D is equal to ${composition}`);
+// let c = +prompt("What is C?");
+// let d = +prompt("What is B?");
+// let composition = c * d;
+// console.log(`C multiplied D is equal to ${composition}`);
+
+// Homework
+
+// Homework
