@@ -30,4 +30,4 @@
 
 // console.log('I\'m the bost');
 
-console.log("I'm the fan of \"Beatles\"!");
+let artist = "Beatles";
