@@ -18,3 +18,4 @@
 // console.log(`${value} is measuted in ${unit}`);
 
 let author = "Stiven Criate";
+let book = "Monster";
