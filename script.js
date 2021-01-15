@@ -34,3 +34,4 @@
 // console.log('I\'m the fan of "' + artist + '"!');
 
 let artist = "Beatles";
+console.log(`I'm the fan of " ${artist} "!`)
