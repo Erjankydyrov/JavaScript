@@ -59,4 +59,6 @@
 // Homework
 let v = +prompt("The speed of a moving body is V = ");
 let t = +prompt("Spent time T = ");
+let way = v * t;
+
 // Homework
