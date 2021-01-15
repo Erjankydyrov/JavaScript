@@ -28,4 +28,6 @@
 // console.log("My favouite song is \"Friends\" by Marshmelloy!");
 // console.log("My favouite song is 'Friends' by Marshmelloy!");
 
-console.log('I\'m the bost');
+// console.log('I\'m the bost');
+
+console.log("I'm the fan of \"Beatles\"!");
