@@ -57,8 +57,13 @@
 // console.log(`C multiplied D is equal to ${composition}`);
 
 // Homework
+
+// first
 let v = +prompt("The speed of a moving body is V = ");
 let t = +prompt("Spent time T = ");
 let way = v * t;
 console.log(`Way = ${way}`);
+// first
+
+
 // Homework
