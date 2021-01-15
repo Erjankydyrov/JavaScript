@@ -9,10 +9,12 @@
 // let country = "KG";
 // console.log(`${capital} is the capital of ${country}`);
 
-let value = "Distance";
-let unit = "meters";
-value = "Height";
-unit = "centimeters";
-value = "Mass";
-unit = "kilograms";
-console.log(`${value} is measuted in ${unit}`);
+// let value = "Distance";
+// let unit = "meters";
+// value = "Height";
+// unit = "centimeters";
+// value = "Mass";
+// unit = "kilograms";
+// console.log(`${value} is measuted in ${unit}`);
+
+let author = "Stiven Criate";
