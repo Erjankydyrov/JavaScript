@@ -10,3 +10,4 @@
 // console.log(`${capital} is the capital of ${country}`);
 
 let value = "Distance";
+let unit = "meters";
