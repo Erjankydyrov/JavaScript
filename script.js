@@ -74,6 +74,7 @@ console.log(`Volume cube = ${volume} sm`);
 // third
 let at = +prompt("height of the triangle AT = ");
 let bt = +prompt("Base of triangle BT = ");
+let square = (at * bt) / 2;
 
 // third
 // Homework
