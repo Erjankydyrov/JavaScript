@@ -25,3 +25,4 @@
 
 
 console.log(`My favouite song is "Friends" by Marshmelloy!`);
+console.log("My favouite song is \"Friends\" by Marshmelloy!");
