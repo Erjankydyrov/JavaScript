@@ -6,3 +6,4 @@
 // console.log(fifth);
 
 let capital = "London";
+let country = "GB";
