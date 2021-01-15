@@ -12,5 +12,5 @@
 let value = "Distance";
 let unit = "meters";
 value = "Height";
-
+unit = "centimeters";
 console.log(`${value} is measuted in ${unit}`);
