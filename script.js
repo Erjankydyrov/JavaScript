@@ -62,16 +62,17 @@
 let v = +prompt("The speed of a moving body is V = ");
 let t = +prompt("Spent time T = ");
 let way = v * t;
-console.log(`Way = ${way}`);
+console.log(`Way = ${way} km`);
 // first
 
 // second
 let a = +prompt("Cube edge width A = ");
 let volume = Math.pow(a, 3);
-console.log(`Volume cube = ${volume}`);
+console.log(`Volume cube = ${volume} sm`);
 // second
 
 // third
+let at = +prompt("height of the triangle AT = ");
 
 // third
 // Homework
