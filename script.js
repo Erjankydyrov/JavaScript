@@ -17,8 +17,11 @@
 // unit = "kilograms";
 // console.log(`${value} is measuted in ${unit}`);
 
-let author = "Stiven Criate";
-let book = "Monster";
-author = "Mark Rayl";
-book = "Lizzi";
-console.log(`My favouite ${author} book is by ${book}!`);
+// let author = "Stiven Criate";
+// let book = "Monster";
+// author = "Mark Rayl";
+// book = "Lizzi";
+// console.log(`My favouite ${author} book is by ${book}!`);
+
+
+console.log(`My favouite song is "Friends" by Marshmelloy!`);
