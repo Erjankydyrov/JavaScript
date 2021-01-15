@@ -19,3 +19,4 @@
 
 let author = "Stiven Criate";
 let book = "Monster";
+console.log(`My favouite ${author} book is by ${book}!`);
