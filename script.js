@@ -52,3 +52,4 @@
 // console.log(`The sum of two numbers is equal to ${sum}`);
 
 let c = +prompt("What is C?");
+let d = +prompt("What is B?");
