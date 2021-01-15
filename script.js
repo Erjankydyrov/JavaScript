@@ -14,4 +14,5 @@ let unit = "meters";
 value = "Height";
 unit = "centimeters";
 value = "Mass";
+unit = "kilograms";
 console.log(`${value} is measuted in ${unit}`);
