@@ -57,5 +57,5 @@
 // console.log(`C multiplied D is equal to ${composition}`);
 
 // Homework
-
+let v = +prompt("The speed of a moving body is V = ");
 // Homework
