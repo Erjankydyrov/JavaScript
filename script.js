@@ -31,3 +31,4 @@
 // console.log('I\'m the bost');
 
 let artist = "Beatles";
+console.log('I\'m the fan of "'+ artist + '"!');
