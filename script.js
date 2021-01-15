@@ -54,3 +54,4 @@
 let c = +prompt("What is C?");
 let d = +prompt("What is B?");
 let composition = c * d;
+console.log(`C multiplied D is equal to ${composition}`);
