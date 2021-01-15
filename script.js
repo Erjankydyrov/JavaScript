@@ -53,3 +53,4 @@
 
 let c = +prompt("What is C?");
 let d = +prompt("What is B?");
+let composition = c * d;
