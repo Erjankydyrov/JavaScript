@@ -7,3 +7,4 @@
 
 let capital = "London";
 let country = "GB";
+console.log( `${capital} is the capital of ${country}`);
