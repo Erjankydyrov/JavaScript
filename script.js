@@ -66,6 +66,6 @@ console.log(`Way = ${way}`);
 // first
 
 // second
-
+let a = +prompt("Cube edge width A = ");
 // second
 // Homework
