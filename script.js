@@ -36,5 +36,8 @@
 // let artist = "Beatles";
 // console.log(`I'm the fan of " ${artist} "!`)
 
+// let movie = "Terminator";
+// console.log(`My favourite movie is "` + movie + `"!`);
+
 let movie = "Terminator";
-console.log(`My favourite movie is "` + movie + `"!`);
+console.log(`My favourite movie is "${movie}"!`)
