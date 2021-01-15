@@ -65,5 +65,7 @@ let way = v * t;
 console.log(`Way = ${way}`);
 // first
 
+// second
 
+// second
 // Homework
